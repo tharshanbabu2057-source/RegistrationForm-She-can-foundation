@@ -53,19 +53,22 @@ Submitted form data is stored directly in the MySQL database.
 ---
 
 ##  Project Structure
+RegistrationForm
 
-RegistrationForm/
+├── frontend
+│   ├── src
+│   ├── public
+│   ├── package.json
+│   └── vite.config.js
 │
-├── frontend/
-│ ├── src/
-│ ├── public/
-│ └── package.json
-│
-├── backend/
-│ ├── server.js
-│ └── package.json
+├── backend
+│   ├── server.js
+│   ├── package.json
+│   └── node_modules
 │
 └── README.md
+
+
 
 ---
 
