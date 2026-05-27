@@ -2,7 +2,7 @@
 
 A modern full-stack registration form website created for the She Can Foundation Internship Selection Task.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a responsive full-stack web application built using:
 
@@ -23,7 +23,7 @@ Submitted form data is stored directly in the MySQL database.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Responsive full-screen design
 - Professional NGO-style landing page
@@ -36,7 +36,7 @@ Submitted form data is stored directly in the MySQL database.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend
 - React JS
@@ -52,7 +52,7 @@ Submitted form data is stored directly in the MySQL database.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 RegistrationForm/
 │
@@ -69,9 +69,9 @@ RegistrationForm/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
-### 1️⃣ Clone Repository
+###  Clone Repository
 
 ```bash
 git clone https://github.com/tharshanbabu2057-source/RegistrationForm-She-can-foundation.git
