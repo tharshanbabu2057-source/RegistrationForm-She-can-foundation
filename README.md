@@ -1,4 +1,4 @@
-<img width="1910" height="1017" alt="image" src="https://github.com/user-attachments/assets/1d623a04-0dfc-4645-a51e-c6d1de439c7f" /># She Can Foundation Registration Form
+### She Can Foundation Registration Form
 
 A modern full-stack registration form website created for the She Can Foundation Internship Selection Task.
 
